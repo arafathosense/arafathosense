@@ -1,8 +1,8 @@
 ![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
 <h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN </h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh.</h3>
+<h3 align="center"> A passionate Data Scientist from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosenarafat&label=Profile%20views&color=0e75b6&style=flat" alt="hosenarafat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosenarafat&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 <h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh.</h3>
 
