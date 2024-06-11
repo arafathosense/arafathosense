@@ -1,34 +1,26 @@
 ![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
 <h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN </h1>
-<h3 align="center"> A passionate Data Scientist from Bangladesh.</h3>
+<h3 align="center">A passionate Data Scientist from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
-<h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN</h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arafathesenbd" target="blank"><img src="https://img.shields.io/twitter/follow/arafathesenbd?logo=twitter&style=for-the-badge" alt="arafathesenbd" /></a> </p>
-
-- 🔭 I’m currently working on [China Bangladesh Students Society](cbss2021.c0m)
-
-- 🌱 I’m currently learning **Artificial intelligence**
-
+- 🔭 I’m currently working on **Data Scientist GoBuild Germany**
 - 👯 I’m looking to collaborate on **Big Data**
 
+- 🌱 I’m currently learning **Artificial intelligence**
 - 🤝 I’m looking for help with **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/arafathosense](https://github.com/arafathosense)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SCSS, PHP, Mysql, MongoDB, Python, R, Data Science, Machine Learning, Data Visualization, Deep Learning, Tableau, NumPy, Pandas, Spark, Hadoop, Matlab, Artificial intelligence.**
-
+- 👨‍💻 All of my projects are available at [ARAFAT HOSEN](https://github.com/arafathosense)
 - 📫 How to reach me **arafat.hosen@hotmail.com**
 
 - ⚡ Fun fact **I think i'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arafathesenbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafathesenbd" height="30" width="40" /></a>
+<a href="https://fb.com/arafathosenbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafathosenbd" height="30" width="40" /></a>
+<a href="https://instagram.com/_arafat_hosen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arafat_hosen_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
