@@ -1,19 +1,18 @@
 ![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
 <h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN </h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<h3 align="center">A passionate AI Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Scientist GoBuild Germany**
-- 👯 I’m looking to collaborate on **Big Data**
+- 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV**
 
-- 🌱 I’m currently learning **Artificial intelligence**
-- 🤝 I’m looking for help with **Machine Learning**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, SCSS, PHP, Mysql, MongoDB, Python, R, Data Science, Machine Learning, Data Visualization, Deep Learning, Tableau, NumPy, Pandas, Spark, Hadoop, Matlab, Artificial intelligence.**
+- 🌱 I’m currently learning **Computer Vision (Autonomous Vehicle Self Driving Car)**
+- 🤝 I’m looking for help with **Deep Learning, OpenCv**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at [ARAFAT HOSEN](https://github.com/arafathosense)
-- 📫 How to reach me **arafat.hosen@hotmail.com**
+- 📫 How to reach me **arafat.bd.hosen@gmail.com**
 
 - ⚡ Fun fact **I think i'm Funny**
 
@@ -24,8 +23,6 @@
   
 <a href="https://www.linkedin.com/in/arafathosenbd/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
-  <a href="https://twitter.com/arafathosenbd" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
