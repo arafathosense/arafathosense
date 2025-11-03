@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV**
-
-- 🌱 I’m currently learning **Computer Vision (Autonomous Vehicle Self Driving Car)**
+- 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
+- 🌱 I’m currently learning **Computer Vision (Autonomous Vehicle - Self-Driving Car)**
+- 🧠 Exploring **Deep Learning** frameworks and **OpenCV application**
 - 🤝 I’m looking for help with **Deep Learning, OpenCv**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
-- 👨‍💻 All of my projects are available at [ARAFAT HOSEN](https://github.com/arafathosense)
+- 👨‍💻 All of my projects are available at **[ARAFAT HOSEN](https://github.com/arafathosense)**
 - 📫 How to reach me **arafat.bd.hosen@gmail.com**
 
 - ⚡ Fun fact **I think i'm Funny**
