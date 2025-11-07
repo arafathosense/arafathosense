@@ -16,13 +16,14 @@
 
 - ⚡ Fun fact **I think i'm Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/arafathosenbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arafathosenbd" height="30" width="40" /></a>
-<a href="https://instagram.com/_arafat_hosen_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arafat_hosen_" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/arafathosenbd/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
+
+### Connect with me:
+💬 Available for collaboration and projects. Reach out and get in touch anytime!  
+
+
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://fb.com/arafathosenbd)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosenbd/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/>](https://www.youtube.com/@NomadicArafatBangla)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -81,10 +82,9 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/arafathosense">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=600&height=60&color=00F5FF&background=00000000&lines=Artificial+Intelligence+Expert;Computer+Vision+Developer;Machine+Learning+Researcher;Building+Smart+AI+Systems;Always+Learning+%26+Improving">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=80&lines=Artificial+Intelligence+Expert;Machine+Learning+Developer;Deep+Learning+Researcher;Computer+Vision+Developer;Always+Learning+and+Improving&colors=FFFF00,FF0000&background=00000000&repeat=true">
   </a>
 </p>
-
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
@@ -99,16 +99,28 @@
 </p>
 
 <p align="center" style="font-size:60px; font-weight:bold;"> 
-   Bangladesh 
+   BANGLADESH
+    <br>
+  SHERPUR, BOGURA
   <br>
   Always learning & building in Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision
+    <br>
+  **Knowledge is the key to innovation, and learning never stops. Every day is a chance to create something new**
 </p>
 
-<p align="center" style="font-size:36px; font-style:italic;">
-  <a href="[https://www.youtube.com/watch?v=1-7h0wXfZ70" target=](https://www.youtube.com/watch?v=iLTBeaE5Uos&list=RDiLTBeaE5Uos&start_radio=1)"_blank">
-    Listen to the National Song of Bangladesh: "আমার সোনার বাংলা আমি তোমায় ভালোবাসি"
-  </a>
+
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontAlignY=35&animation=twinkling" />
 </p>
+
+<p align="center" style="font-size:16px; color:#000000; margin-top:-40px;">
+  © 2025-2026 Arafat Hosen. All rights reserved.
+</p>
+
+
+
 
 
 
