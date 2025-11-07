@@ -50,13 +50,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
 
 <!-- Natural Language Processing -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Nltk_logo.png" width="45"/>
-<img src="https://spacy.io/static/favicon.svg" width="45"/>
+
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
 
 <!-- Computer Vision -->
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/MediaPipe_Logo.png" width="45"/>
+
 
 <!-- AI Model Deployment -->
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/>
