@@ -116,7 +116,6 @@
 </p>
 
 <p align="center" style="font-size:16px; color:#000000; margin-top:-40px;">
-  © 2025-2026 Arafat Hosen. All rights reserved.
 </p>
 
 
