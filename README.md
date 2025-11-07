@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **Deep Learning, OpenCv**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at **[ARAFAT HOSEN](https://github.com/arafathosense)**
-- 📫 How to reach me **arafat.bd.hosen@gmail.com**
+- 📫 You can reach me anytime via Email **arafat.bd.hosen@gmail.com**
 
 - ⚡ Fun fact **I'm a very Funny Boy and making others smile is one of my favorite things to do**
 
