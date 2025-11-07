@@ -14,10 +14,10 @@
 - 👨‍💻 All of my projects are available at **[ARAFAT HOSEN](https://github.com/arafathosense)**
 - 📫 How to reach me **arafat.bd.hosen@gmail.com**
 
-- ⚡ Fun fact **I think i'm Funny**
+- ⚡ Fun fact **I'm a very Funny Boy and making others smile is one of my favorite things to do**
 
 
-### Connect with me:
+### Reach out to me:
 💬 Available for collaboration and projects. Reach out and get in touch anytime!  
 
 
