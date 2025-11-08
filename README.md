@@ -14,15 +14,15 @@
 - 👨‍💻 All of my projects are available at **[ARAFAT HOSEN](https://github.com/arafathosense)**
 - 📫 You can reach me anytime via Email **arafat.bd.hosen@gmail.com**
 
-- ⚡ Fun fact **I'm a very Funny Boy and making others smile is one of my favorite things to do**
+- ⚡ Fun fact **I'm a very Funny and making others smile is one of my favorite things to do**
 
 
-### Reach out to me:
+### Reach out to me on Social Media:
 💬 Available for collaboration and projects. Reach out and get in touch anytime!  
 
 
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://www.facebook.com/arafathosense)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosense/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40"/>](https://www.youtube.com/@NomadicArafatBangla)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://www.facebook.com/arafathosense)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosense/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>](https://www.youtube.com/@NomadicArafatBangla)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -82,7 +82,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/arafathosense">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=80&lines=Artificial+Intelligence+Expert;Machine+Learning+Developer;Deep+Learning+Researcher;Computer+Vision+Developer;Always+Learning+and+Improving&colors=FFFF00,FF0000&background=00000000&repeat=true">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=80&lines=Artificial+Intelligence+Expert;Machine+Learning+Researcher;Deep+Learning+Researcher;Computer+Vision+Researcher;Always+Learning+and+Improving&colors=FFFF00,FF0000&background=00000000&repeat=true">
   </a>
 </p>
 
