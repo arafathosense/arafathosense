@@ -65,24 +65,34 @@
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="45"/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafathosense&show_icons=true&locale=en&layout=compact" alt="arafathosense" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafathosense&show_icons=true&locale=en" alt="arafathosense" /></p>
+  <!-- PROFILE CARD -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arafathosense&show_icons=true&hide_border=true&theme=radical" height="170" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafathosense&" alt="arafathosense" /></p>
+  <!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathosense&layout=compact&hide_border=true&theme=radical" height="170"/>
 
+</div>
 
+<br/>
 
+<!-- STREAK -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafathosense&theme=radical&hide_border=true" />
+</div>
+
+<br/>
 
 <!-- Header Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ARAFAT%20HOSEN&fontSize=40&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HOSEN%20ARAFAT&fontSize=40&fontAlignY=35&animation=twinkling&colorStart=00FFFF&colorEnd=FF00FF" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/arafathosense">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=80&lines=Artificial+Intelligence+Expert;Machine+Learning+Researcher;Deep+Learning+Researcher;Computer+Vision+Researcher;Always+Learning+and+Improving&colors=FFFF00,FF0000&background=00000000&repeat=true">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=80&lines=Artificial+Intelligence+Expert;Machine+Learning+Researcher;Deep+Learning+Researcher;Computer+Vision+Researcher;Always+Learning+and+Improving&colors=00FFFF,FF00FF&background=00000000&repeat=true">
   </a>
 </p>
 
@@ -91,32 +101,28 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-
 <hr>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="350" />
 </p>
 
-<p align="center" style="font-size:60px; font-weight:bold;"> 
-   BANGLADESH
-    <br>
-  SHERPUR, BOGURA
+<p align="center" style="font-size:60px; font-weight:bold; color:#00FFFF;"> 
+  <strong style="color:#FF00FF;">⛳ FULBARI, SHERPUR, KHAMAR KANDI - 5840, BOGURA, BANGLADESH</strong>
+<br>
   <br>
-  Always learning & building in Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision
+  <strong style="color:#FF00FF;">"Always learning & building in Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision</strong>
     <br>
-  **Knowledge is the key to innovation, and learning never stops. Every day is a chance to create something new**
+  <strong style="color:#00FFFF;">Knowledge is the key to innovation, and learning never stops. Every day is a chance to create something new."</strong>
 </p>
-
-
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontAlignY=35&animation=twinkling&colorStart=00FFFF&colorEnd=FF00FF" />
 </p>
 
-<p align="center" style="font-size:16px; color:#000000; margin-top:-40px;">
-</p>
+
+
 
 
 
