@@ -1,20 +1,20 @@
 ![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
-<h1 align="center">Hello Dear 👋, I'm ARAFAT HOSEN </h1>
-<h3 align="center">A passionate AI Engineer</h3>
+<h1 align="center">Hello there 👋, I'm HOSEN ARAFAT </h1>
+<h4 align="center">Deeply Passionate about advancing Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a strong desire to continuously learn, conduct impactful research, and publish high-quality scientific papers throughout my MSc and PhD journey.</h4>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
 - 🌱 I’m currently learning **Computer Vision (Autonomous Vehicle - Self-Driving Car)**
 - 🧠 Exploring **Deep Learning** frameworks and **OpenCV application**
 - 🤝 I’m looking for help with **Deep Learning, OpenCv**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
-- 👨‍💻 All of my projects are available at **[ARAFAT HOSEN](https://github.com/arafathosense)**
+- 👨‍💻 All of my projects are available at **[HOSEN ARAFAT](https://github.com/arafathosense)**
 - 📫 You can reach me anytime via Email **arafat.bd.hosen@gmail.com**
 
-- ⚡ Fun fact **I'm a very Funny and making others smile is one of my favorite things to do**
+- ⚡ Fun fact **I'm a very Funny person and making others smile is one of my favorite things to do**
 
 
 ### Reach out to me on Social Media:
