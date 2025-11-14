@@ -1,6 +1,7 @@
 ![MasterHead](https://th.bing.com/th/id/R.00cd5988643a5046f294396c48bc42e6?rik=BevlsW6FO3ePSw&pid=ImgRaw&r=0.gif)
 <h1 align="center">Hello there 👋, I'm HOSEN ARAFAT </h1>
-<h3 align="center">Deeply Passionate about advancing Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a strong desire to continuously learn, conduct impactful research, and publish high-quality scientific papers throughout my MSc and PhD journey.</h3>
+<h4 align="center">Deeply Passionate about advancing Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a strong desire to continuously learn, conduct impactful research, and publish high-quality scientific papers throughout my MSc and PhD journey.</h4>
+<br>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
