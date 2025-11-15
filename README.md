@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
-
-
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
 - 🌱 I’m currently learning **Computer Vision (Autonomous Vehicle - Self-Driving Car)**
 - 🧠 Exploring **Deep Learning** frameworks and **OpenCV application**
@@ -14,21 +12,12 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at **[HOSEN ARAFAT](https://github.com/arafathosense)**
 - 📫 You can reach me anytime via Email **arafat.bd.hosen@gmail.com**
-
 - ⚡ Fun fact **I'm a very Funny person and making others smile is one of my favorite things to do**
-
-
 ### Reach out to me on Social Media:
 💬 Available for collaboration and projects. Reach out and get in touch anytime!  
-
-
-
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://www.facebook.com/arafathosense)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosense/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>](https://www.youtube.com/@NomadicArafatBangla)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-
 <!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -37,35 +26,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-
 <!-- Machine Learning & Deep Learning -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
-
 <!-- Data Science -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-
 <!-- Natural Language Processing -->
-
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
-
 <!-- Computer Vision -->
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
-
-
 <!-- AI Model Deployment -->
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="45"/>
-
-
 <div align="center">
 
   <!-- PROFILE CARD -->
