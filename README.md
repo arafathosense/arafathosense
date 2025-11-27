@@ -18,39 +18,6 @@
 💬 Available for collaboration and projects. Reach out and get in touch anytime!  
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://www.facebook.com/arafathosense)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosense/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>](https://www.youtube.com/@NomadicArafatBangla)
 
-<div align="center">
-
-  ### 🚀 Languages and Tools
-
-<!-- Programming Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-<!-- Machine Learning & Deep Learning -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
-<!-- Data Science -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<!-- Natural Language Processing -->
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
-<!-- Computer Vision -->
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
-<!-- AI Model Deployment -->
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flask.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/streamlit.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="45"/>
-
-
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00008B?style=flat&logo=scikit-learn&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-F65B66?style=flat&logo=pytorch&logoColor=white) [![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?logo=openai&logoColor=fff)](#) ![NLP](https://img.shields.io/badge/-NLP-2E7D32?style=flat&logo=huggingface&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
