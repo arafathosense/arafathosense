@@ -37,22 +37,14 @@
 ### ⚡ Development Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=fff)](#) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat&logo=mouse&logoColor=white) [![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)
 
-
-  <!-- PROFILE CARD -->
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafathosense&show_icons=true&hide_border=true&theme=radical" height="170" />
-
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathosense&layout=compact&hide_border=true&theme=radical" height="170"/>
-
 </div>
-
 <br/>
-
-<!-- STREAK -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafathosense&theme=radical&hide_border=true" />
 </div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafathosense&theme=github_dark"/>
+</p>
 
 <br/>
 
