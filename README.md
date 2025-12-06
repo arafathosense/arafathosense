@@ -46,7 +46,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&logoWidth=40&labelWidth=90" /></a>
 </p>
 
----
+
 
 
 #### 🧩 Generative AI & Automation
@@ -71,7 +71,7 @@
 </p>
 
 
----
+
 
 #### 📊 Data Science & Analytics
 <p align="center">
@@ -92,7 +92,7 @@
   <a href="#"><img src="https://img.shields.io/badge/MLFlow-F05A28?style=for-the-badge&logo=mlflow&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
 </p>
 
----
+
 
 #### 🌐 Web Development
 <p align="center">
@@ -115,7 +115,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-00FFC6?style=for-the-badge&logo=fastapi&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
 
----
+
 
 #### 🗄️ Databases & Cloud
 
@@ -140,7 +140,7 @@
 </p>
 
 
----
+
 
 #### ⚡ Development Tools
 
@@ -166,7 +166,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
 </p>
 
----
+
 
 ### <img src="https://img.icons8.com/color/48/ibm.png" width="40"/> IBM Certificates
 
@@ -333,7 +333,7 @@
 </tr>
 </table>
 
----
+
 </div>
 <br/>
 <p align="center">
