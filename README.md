@@ -325,7 +325,7 @@
 <img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
 <br/>
 <b>Machine Learning with Python</b><br/>
-<a href=" https://courses.cognitiveclass.ai/certificates/58b3f0d2cc674537b2010e4ff8c3d3cf">
+<a href="https://courses.cognitiveclass.ai/certificates/58b3f0d2cc674537b2010e4ff8c3d3cf">
 <img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 </div>
