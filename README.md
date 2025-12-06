@@ -44,7 +44,7 @@
 </p>
 
 
----
+
 
 #### 🧩 Generative AI & Automation
 
@@ -68,7 +68,7 @@
 </p>
 
 
----
+
 
 #### 📊 Data Science & Analytics
 <p align="center">
@@ -90,7 +90,6 @@
 </p>
 
 
----
 
 #### 🌐 Web Development
 <p align="center">
@@ -113,7 +112,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-00FFC6?style=for-the-badge&logo=fastapi&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
 
----
+
 
 #### 🗄️ Databases & Cloud
 
@@ -138,7 +137,7 @@
 </p>
 
 
----
+
 
 #### ⚡ Development Tools
 
@@ -164,7 +163,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
 </p>
 
----
+
 
 </div>
 <br/>
