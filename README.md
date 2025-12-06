@@ -185,6 +185,29 @@
 </p>
 <br/>
 
+
+
+
+
+## 🪪 IBM Certificate
+
+<div align="center">
+  <img src="https://img.icons8.com/color/100/ibm.png" width="65"/>
+
+  <h4>Machine Learning with Python</h4>
+  <a href="https://courses.cognitiveclass.ai/certificates/58b3f0d2cc674537b2010e4ff8c3d3cf">
+     <img src="https://img.shields.io/badge/View%20Certificate-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
 <!-- Header Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=HOSEN%20ARAFAT&fontSize=40&fontAlignY=35&animation=twinkling&colorStart=00FFFF&colorEnd=FF00FF" />
