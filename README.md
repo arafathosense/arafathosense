@@ -167,8 +167,12 @@
 </p>
 
 ---
-## IBM Certificates
 
+### <img src="https://img.icons8.com/color/48/ibm.png" width="40"/> IBM Certificates
+
+---
+
+<!-- 1st row -->
 <div align="center">
 
 <table>
@@ -226,8 +230,110 @@
 </table>
 
 </div>
----
 
+<!-- 2nd row -->
+<div align="center">
+
+<table>
+<tr>
+
+<!-- 5 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Deep Learning Fundamentals</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/eeb6de49afcc4d33a457de21c4131fdd">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 6 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>IBM Cloud Essentials</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/3f0728ff68694f1eb52461edef3d68d8">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 7 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Data Analysis with Python</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/5f4ed1695e254d1796d888179718ca37">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 8 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Data Visualization with Python</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/1d1e1c12182544579bebeac8897d5a75">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 9 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Python 101 for Data Science</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/8658e74c3bd845c9adba6366aae471e8">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- 3rd row -->
+<div align="center">
+
+<table>
+<tr>
+
+<!-- 10 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Data Science 101</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/5f98d97c54a24b32b4b47f09cc66a2d6">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 11 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Machine Learning with Python</b><br/>
+<a href=" https://courses.cognitiveclass.ai/certificates/58b3f0d2cc674537b2010e4ff8c3d3cf">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+---
 </div>
 <br/>
 <p align="center">
