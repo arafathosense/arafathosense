@@ -167,6 +167,66 @@
 </p>
 
 ---
+## IBM Certificates
+
+<div align="center">
+
+<table>
+<tr>
+
+<!-- 1 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Machine Learning - Dimensionality Reduction</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/4f275e6b50894420b897202c06448a43">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 2 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Cancer Image Detection With PyTorch</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/f574c9c0932f4c01ba7c7af8fb420640">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 3 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b> Build an IoT Blockchain Network for a Supply Chain</b><br/>
+<a href="https://courses.cognitiveclass.ai/certificates/1d780f165dbd49329ddd5909e9302db2">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<!-- 4 -->
+<td>
+<div align="center">
+<img src="https://img.icons8.com/color/80/ibm.png" width="55"/>
+<br/>
+<b>Agentic AI Hands-on</b><br/>
+<a href="https://cognitiveclass.ai/certificates/bc530c00-9382-4d79-8484-f95dd6bec338">
+<img src="https://img.shields.io/badge/View-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+</div>
+</td>
+
+</tr>
+</table>
+
+</div>
+---
 
 </div>
 <br/>
@@ -184,29 +244,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafathosense&theme=github_dark"/>
 </p>
 <br/>
-
-
-
-
-
-## 🪪 IBM Certificate
-
-<div align="center">
-  <img src="https://img.icons8.com/color/100/ibm.png" width="65"/>
-
-  <h4>Machine Learning with Python</h4>
-  <a href="https://courses.cognitiveclass.ai/certificates/58b3f0d2cc674537b2010e4ff8c3d3cf">
-     <img src="https://img.shields.io/badge/View%20Certificate-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-  </a>
-</div>
-
-
-
-
-
-
-
-
 
 <!-- Header Gradient Banner -->
 <p align="center">
