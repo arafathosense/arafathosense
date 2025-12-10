@@ -23,6 +23,8 @@
 
 ### 🛠️ Technical Skills
 
+---
+
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&labelWidth=100" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-6F42C1?style=for-the-badge&logo=scikit-learn&logoColor=white&logoWidth=40&labelWidth=120" /></a>
