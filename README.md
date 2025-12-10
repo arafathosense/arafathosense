@@ -29,9 +29,9 @@
   <a href="#"><img src="https://img.shields.io/badge/Deep%20Learning-F65B66?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40&labelWidth=110" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge&logo=openai&logoColor=fff&logoWidth=40&labelWidth=130" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6600?style=for-the-badge&logo=reinforcement-learning&logoColor=fff&logoWidth=40&labelWidth=150" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Image%20Processing-FF6600?style=for-the-badge&logo=image-processing&logoColor=fff&logoWidth=40&labelWidth=150" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Robotics-0055FF?style=for-the-badge&logo=robotics&logoColor=fff&logoWidth=40&labelWidth=90" /></a>
+ <a href="#"><img src="https://img.shields.io/badge/Robotics-0055FF?style=for-the-badge&logo=robotics&logoColor=fff&logoWidth=40&labelWidth=90" /></a>
   <a href="#"><img src="https://img.shields.io/badge/ROS-DA291C?style=for-the-badge&logo=ros&logoColor=fff&logoWidth=40&labelWidth=60" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Image%20Processing-FF6600?style=for-the-badge&logo=image-processing&logoColor=fff&logoWidth=40&labelWidth=150" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40&labelWidth=100" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
@@ -40,19 +40,14 @@
   <a href="#"><img src="https://img.shields.io/badge/NLP-2E7D32?style=for-the-badge&logo=huggingface&logoColor=white&logoWidth=40&labelWidth=60" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=fff&logoWidth=40&labelWidth=110" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=fff&logoWidth=40&labelWidth=100" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&logoWidth=40&labelWidth=90" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=fff&logoWidth=40&labelWidth=100" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Statsmodels-5C5CFF?style=for-the-badge&logo=python&logoColor=fff&logoWidth=40&labelWidth=100" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoWidth=40&labelWidth=90" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Seaborn-1A2F43?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&labelWidth=80" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Plotly-FF69B4?style=for-the-badge&logo=plotly&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=fff&logoWidth=40&labelWidth=100" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/n8n-EA4B8B?style=for-the-badge&logo=n8n&logoColor=fff&logoWidth=40&labelWidth=60" /></a>
@@ -68,14 +63,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&logoWidth=40&labelWidth=70" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff&logoWidth=40&labelWidth=90" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-00FFC6?style=for-the-badge&logo=fastapi&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff&logoWidth=40&labelWidth=80" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
