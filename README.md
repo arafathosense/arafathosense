@@ -256,22 +256,53 @@
 </table>
 
 ---
-</div>
-<br/>
-<p align="center">
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafathosense&theme=github_dark&utcOffset=8" />
-  <img src="https://streak-stats.demolab.com?user=arafathosense&theme=tokyonight&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafathosense&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arafathosense&theme=github_dark"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafathosense&theme=github_dark"/>
-</p>
-<br/>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafathosense&layout=compact&theme=outrun"
+           width="420" height="190" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=arafathosense&show_icons=true&locale=en&theme=outrun"
+           width="420" height="190" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafathosense&theme=github_dark"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arafathosense&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafathosense&theme=github_dark&utcOffset=8" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=arafathosense&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafathosense&theme=github_dark"/>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Header Gradient Banner -->
 <p align="center">
