@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
-- 🔭 I graduated with a **Bachelor’s degree in Software Engineering** in **2023** from [Anhui University of Technology (AHUT)](https://en.ahut.edu.cn/), Anhui Province, China.
+- 🔭 I graduated with a **Bachelor’s degree in Software Engineering** from [Anhui University of Technology (AHUT)](https://en.ahut.edu.cn/), Anhui Province, China, in **2023**.
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
 - 🌱 I’m currently learning **Computer Vision**
 - 🧠 Exploring **Deep Learning** frameworks and **OpenCV application**
