@@ -84,8 +84,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=fff&logoWidth=40&labelWidth=70" /></a>
   </p>
 
-[![HOSEN ARAFAT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arafathosense&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![HOSEN ARAFAT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arafathosense&theme=github-compact)
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td>
