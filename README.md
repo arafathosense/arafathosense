@@ -11,7 +11,7 @@
 - 🧠 Exploring **Deep Learning** frameworks and **TensorFlow application**
 - 🤝 I’m looking for help with **Educational Game**
 - 💬 Ask me about **HTML, CSS, JavaScript, C++, C#, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Image Computing, Image Processing, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
-- 👨‍💻 All of my projects are available at **[HOSEN ARAFAT](https://github.com/arafathosense)**
+- 👨‍💻 All of my information are available at **[HOSEN ARAFAT | Portfolio](https://arafathosense.github.io)**
 - 📫 You can reach me anytime via Email **hosenarafat@126.com**
 - ⚡ Fun fact **I'm a very Funny person and making others smile is one of my favorite things to do**
  
