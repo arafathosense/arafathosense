@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Image Computing, Image Processing, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
 - 🌱 I’m currently learning **Image Computing and Perceptual Intelligence**
 - 🧠 Exploring **Deep Learning** frameworks and **TensorFlow application**
-- 🤝 I’m looking for help with **Deep Learning, OpenCv**
+- 🤝 I’m looking for help with **Educational Game**
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, MongoDB, Python, R, Artificial Intelligence, Image Computing, Image Processing, Machine Learning, Deep Learning, Computer Vision, OpenCV, TensorFlow, pyTorch, NumPy, Pandas, Matlab**
 - 👨‍💻 All of my projects are available at **[HOSEN ARAFAT](https://github.com/arafathosense)**
 - 📫 You can reach me anytime via Email **hosenarafat@126.com**
