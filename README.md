@@ -14,11 +14,6 @@
 - 👨‍💻 All of my information are available at **[HOSEN ARAFAT | Portfolio](https://arafathosense.github.io)**
 - 📫 You can reach me anytime via Email **hosenarafat@126.com**
 - ⚡ Fun fact **I'm a very Funny person and making others smile is one of my favorite things to do**
- 
-
-### 💻 Reach out to me on Social Media
-💬 Available for collaboration and projects. Reach out and get in touch anytime!  
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>](https://www.facebook.com/arafathosense)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>](https://instagram.com/_arafat_hosen_)       [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>](https://www.linkedin.com/in/arafathosense/)      [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="45" width="45"/>](https://www.youtube.com/@NomadicArafatBangla)
 
 ### 🛠️ Languages and Tools
 
