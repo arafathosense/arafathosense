@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafathosense&label=Profile%20views&color=0e75b6&style=flat" alt="arafathosense" /> </p>
 
-- 🔭 I graduated with a **Bachelor’s degree in Software Engineering** from [Anhui University of Technology (AHUT)](https://en.ahut.edu.cn/), Anhui Province, China, in **2023**.
+- 🔭 I am currently pursuing a **Master’s degree in Control Science and Engineering** at [Southeast University (SEU)](https://www.seu.edu.cn/english/), Jiangsu Province, Nanjing, China.
+- 🔭 I graduated with a **Bachelor’s degree in Software Engineering** from [Anhui University of Technology (AHUT)](https://en.ahut.edu.cn/), Anhui Province, China.
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Image Computing, Image Processing, Machine Learning, Deep Learning, Computer Vision, OpenCV Projects**
 - 🌱 I’m currently learning **Image Computing and Perceptual Intelligence**
 - 🧠 Exploring **Deep Learning** frameworks and **TensorFlow application**
